@@ -1,16 +1,16 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: The Infinite Energy Initiative
+tagline: The Infinite Energy Initiative
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Our mission is to discover a source of infinite energy, and share it safely with everyone
 baseurl: ""
 #url: "https://www.csrhymes.com"
 url: "http://infinite-energy.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
