@@ -6,7 +6,7 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-# This sounds completely insane
+# We are aware this sounds completely insane
 
 > Live forever, or die trying.
 
@@ -27,38 +27,61 @@ Another reason to hope is that, even though so far, we generally know that energ
 
 [//]: # (TODO - add link to main article)
 
+[//]: # ()
+[//]: # (## GitHub Pages)
 
-## GitHub Pages
+[//]: # ()
+[//]: # (The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`)
 
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
+[//]: # ()
+[//]: # (```yml)
 
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
+[//]: # (remote_theme: chrisrhymes/bulma-clean-theme)
 
-## Documentation
+[//]: # (```)
 
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
+[//]: # ()
+[//]: # (## Documentation)
 
-## Page Layouts
+[//]: # ()
+[//]: # (For full instructions, please see the [Documentation]&#40;/bulma-clean-theme/docs/&#41;)
 
-This demo site showcases the available page layout options. 
+[//]: # ()
+[//]: # (## Page Layouts)
 
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
+[//]: # ()
+[//]: # (This demo site showcases the available page layout options. )
 
-## Supported By JetBrains
+[//]: # ()
+[//]: # (* Sidebar)
 
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
+[//]: # (* Menubar)
 
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+[//]: # (* Tabs)
+
+[//]: # (* Footer)
+
+[//]: # (* Hero)
+
+[//]: # (* Contents)
+
+[//]: # (* Landing Page With Callouts)
+
+[//]: # (* Sponsors Page)
+
+[//]: # (* Image Gallery)
+
+[//]: # (* Recipe Page)
+
+[//]: # (* Blog)
+
+[//]: # (* Post)
+
+[//]: # ()
+[//]: # (## Supported By JetBrains)
+
+[//]: # ()
+[//]: # (JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.)
+
+[//]: # ()
+[//]: # ([![JetBrains]&#40;img/jetbrains-variant-4.svg&#41;]&#40;https://www.jetbrains.com/?from=bulma-clean-theme&#41;)
