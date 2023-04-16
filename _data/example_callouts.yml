@@ -7,7 +7,7 @@ items:
     description: >
       The example description text goes here and can be multiple lines.
 
-      For example, such as this. 
+      For example, such as this.
     call_to_action_name: Call to action 1
     call_to_action_link: /page-1/
   - title: Example callout 2
@@ -28,4 +28,4 @@ items:
 
       For example, such as this.
     call_to_action_name: Call to action 3
-    call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/
+    call_to_action_link: https://www.csrhymes.com/page-3/
