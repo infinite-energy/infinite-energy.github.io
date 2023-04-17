@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Vlad George Ardelean
 title: Why we want infinite energy
 description: Isn't renewable energy, fusion, or Kardashev level 3 enough?
 date: 2023-04-16 09:00:07
@@ -7,13 +8,12 @@ hero_image: /img/hand-with-lightbulg-on-large.jpg
 image: /img/hand-with-lightbulg-on-large.jpg
 hero_height: is-large
 hero_darken: true
-
+#toc: true
+#tags: bulma-clean-theme jekyll blog
+#series: example_blog_series
 ---
-[//]: # (tags: bulma-clean-theme jekyll blog)
-[//]: # (Vlad: the 'tags' parameter is really nice. Not exactly sure what it does or how it can be used, but at least it adds nice looking labels)
 
-[//]: # (series: example_blog_series)
-[//]: # (Vlad: the series parameter above could be really useful. It can work like a table of contents or site map)
+Here are some reasons why we think an endless source of energy would be a good thing.
 
 ### To prevent any disaster
 

@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "bulma-clean-theme"
   spec.version       = "0.13.2"
-  spec.authors       = ["chrisrhymes"]
-  spec.email         = ["csrhymes@gmail.com"]
+  spec.authors       = ["Vlad Ardelean"]
+  spec.email         = ["vlad.george.ardelean@gmail.com"]
 
   spec.summary       = "Clean and simple Jekyll theme built using Bulma"
-  spec.homepage      = "https://www.github.com/chrisrhymes/bulma-clean-theme"
+  spec.homepage      = "https://www.github.com/infinite-energy/inginite-energy.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|_posts|blog|LICENSE|README|package|node_modules|favicon)!i) }

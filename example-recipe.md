@@ -3,7 +3,7 @@ layout: recipe
 title: An Example Recipe Page
 subtitle: Tastes great and easy to cook
 description: An example recipe page
-author: CS Rhymes
+author: Vlad George Ardelean
 date: 2021-03-02
 show_sidebar: false
 image: /img/recipe-example.jpg
