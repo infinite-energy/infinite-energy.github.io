@@ -8,7 +8,7 @@ hero_image: /img/hand-with-lightbulg-on-large.jpg
 image: /img/hand-with-lightbulg-on-large.jpg
 hero_height: is-large
 hero_darken: true
-#toc: true
+toc: true
 #tags: bulma-clean-theme jekyll blog
 #series: example_blog_series
 ---
