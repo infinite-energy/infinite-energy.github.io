@@ -12,8 +12,6 @@ toc: true
 #tags: bulma-clean-theme jekyll blog
 #series: example_blog_series
 ---
-TL;DR
-
 Though we have reasons to believe infinite energy would be impossible, they are
 not convincing enough for us to stop trying. Endless energy's benefits are so huge, that
 we should try to obtain it at the very least up to the point where it's clear beyond any
