@@ -7,9 +7,11 @@ hero_image: /img/hand-with-lightbulg-on-large.jpg
 image: /img/hand-with-lightbulg-on-large.jpg
 hero_height: is-large
 hero_darken: true
-tags: bulma-clean-theme jekyll blog
 
 ---
+[//]: # (tags: bulma-clean-theme jekyll blog)
+[//]: # (Vlad: the 'tags' parameter is really nice. Not exactly sure what it does or how it can be used, but at least it adds nice looking labels)
+
 [//]: # (series: example_blog_series)
 [//]: # (Vlad: the series parameter above could be really useful. It can work like a table of contents or site map)
 
