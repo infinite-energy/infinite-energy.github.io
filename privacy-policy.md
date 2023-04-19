@@ -6,4 +6,4 @@ layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
-TODO
+We do not set any cookies, track your browser in any way, or gather any information about you.
