@@ -10,7 +10,15 @@ show_sidebar: true
 
 > Live forever, or die trying.
 
-Yes, this sounds insane. Physics has been extremely clear on the law of conservation of energy so far. However, since Physics has not yet provided us with a complete understanding of the Universe, we think it's our moral obligation to look for a source of infinite energy. This will allow our civilization to continue in some form, forever. This gives us a powerful sense of meaning.
+Yes, this sounds insane. Physics has been extremely 
+clear on the law of conservation of energy so far. 
+However, since Physics has not yet provided us with 
+a complete understanding of the Universe, 
+we think it's our moral obligation to look for a 
+source of infinite energy. 
+This will allow our civilization to continue in 
+some form, forever. This gives us a powerful sense of
+meaning. More about this, [here](/2023/04/16/why-we-want-infinite-energy/).
 
 [//]: # (TODO - add link to main article)
 
@@ -19,11 +27,14 @@ Yes, this sounds insane. Physics has been extremely clear on the law of conserva
 [//]: # (![GitHub Repo stars]&#40;https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social&#41;)
 
 ## Why do we think infinite energy is possible?
-One reason to hope is because the Universe exists. Let us not forget that the world we live in has no currently known origin. Whatever caused the Big Bang, or even if it caused itself, is a reason to believe that this process could be reproduced, controlled and mastered, maybe even an infinite amount of times.
+One reason to hope is because the Universe exists. 
+Let us not forget that the world we live in has no 
+currently known origin. Whatever caused the Big Bang, 
+or even if it caused itself, is a reason to believe 
+that this process could be reproduced, controlled 
+and mastered, maybe even an infinite amount of times.
 
-
-Another reason to hope is that, even though so far, we generally know that energy is conserved, this is not a fundamental aspect of our world. Noether's theorem is more profound than energy conservation, and energy conservation derives from Noether's theorem. However Noether's theorem has limits, and does not play well with Einstein's theory of General Relativity.
-
+Main article [here](2023/04/16/isnt-infinite-energy-impossible/)
 
 [//]: # (TODO - add link to main article)
 
