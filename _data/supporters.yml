@@ -23,11 +23,15 @@
   icon_color: sponsor-researcher
   sponsors:
     - name: Ali Barzegar
+      title: Physicist, Philosopher
     - name: Daniel Whiteson
       profile: https://sites.uci.edu/daniel/
+      title: Particle Physicist
     - name: Ieronim Constantinescu
+      title: Physicist, Software engineer
       profile: https://www.linkedin.com/in/andrei-ieronim-constantinescu-9ab22623a/
     - name: S.W.C.
+      title: Physicist
       quote: |-
         The physics paradigm is constantly evolving.
         For example, the speed of light was first conceived as infinite,
@@ -45,4 +49,5 @@
     People who wish us good luck, and help us in other ways
   sponsors:
     - name: George Dragan
+      title: Software engineer
       profile: https://www.linkedin.com/in/george-dragan/
