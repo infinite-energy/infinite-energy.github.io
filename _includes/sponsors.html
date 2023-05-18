@@ -7,7 +7,9 @@
                 <span>{{ tier.tier_name }}</span>
             </p>
             <p class="subtitle has-text-centered">
-                <span class="icon is-large gh-sponsor"><i class="fas fa-heart fa-2x"></i></span>
+                <span class="icon is-large {% if tier.icon_color %} {{ tier.icon_color }} {% else %} gh-sponsor {% endif %}">
+                    <i class="fas {% if tier.icon_class %} {{ tier.icon_class }} {% else %}} fa-heart {% endif %}} fa-2x"></i>
+                </span>
             </p>
             <div class="columns is-centered">
                 <div class="column is-6 content has-text-centered">
@@ -23,6 +25,11 @@
                             {{ sponsor.name }}
                         </p>
                         <p class="subtitle is-6">
+                            {% if sponsor.quote %}
+                            <div class="quotebar">
+                                {% include sponsor-quote.html sponsor=sponsor %}
+                            </div>
+                            {% endif %}
                             {% if sponsor.profile %}
                             <a href="{{ sponsor.profile }}" class="is-link is-small">View Profile</a>
                             {% else %}

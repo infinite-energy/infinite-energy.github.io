@@ -48,6 +48,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - .idea/
 
 livereload: true
 

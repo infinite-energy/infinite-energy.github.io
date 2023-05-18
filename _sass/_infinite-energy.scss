@@ -1,0 +1,8 @@
+.quote-widget .quote-text {
+  max-height: 100px; /* Adjust as needed */
+  overflow: hidden;
+}
+
+.quote-widget.expanded .quote-text {
+  max-height: none;
+}

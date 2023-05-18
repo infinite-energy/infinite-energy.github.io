@@ -16,7 +16,12 @@ $hero-darken: $dark !default;
 @import "syntax";
 @import "showcase";
 @import "../node_modules/bulma-block-list/src/block-list.scss";
+@import "infinite-energy";
 
 .gh-sponsor {
   color: #ea4aaa;
+}
+
+.sponsor-researcher {
+    color: #4ac0ea
 }
