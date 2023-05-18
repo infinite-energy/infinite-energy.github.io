@@ -8,6 +8,11 @@ document.addEventListener('DOMContentLoaded', function() {
     link.addEventListener('click', function(e) {
       e.preventDefault();
       this.parentElement.classList.toggle('expanded');
+      if (this.innerHTML !== "show less") {
+        this.innerHTML = "show less";
+      } else {
+          this.innerHTML = "...more";
+      }
     });
   });
 });
