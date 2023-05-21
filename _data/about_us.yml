@@ -1,0 +1,63 @@
+#- tier_name: Platinum Sponsors
+#  size: large
+#  description: |-
+#    This is the description for the Platinum Tier.
+#
+#    It can contain multiple lines. It has the size set to 'large'.
+#  sponsors:
+#    - name: Dave McDave
+#      profile: https://github.com/
+#    - name: Sarah Lee-Cheesecake
+#      profile: https://github.com/
+
+- tier_name: The team
+  size: large
+  description: |-
+    This is the team
+  icon_class: fa-users
+  sponsors:
+    - name: Vlad-George Ardelean
+      title: Founder
+      quote: |-
+        I'm Vlad, the founder of this initiative. I started it because this is the best idea
+        I have for making a positive impact on the future of humanity.
+        In 2010 I got my bachelor's, and in 2013 my master's degree in Physics,
+        from the Babes-Bolyai University in Cluj-Napoca.
+        Since 2011 I've been working in tech companies, both in startups and larger corporations.
+      profile: https://www.linkedin.com/in/vlad-george-ardelean/
+      picture: /img/vlad-founder.jpg
+#- tier_name: Researchers
+#  description: |-
+#    These are researchers who want to work with us
+#  icon_class: fa-flask
+#  icon_color: sponsor-researcher
+#  sponsors:
+#    - name: Ali Barzegar
+#      title: Physicist, Philosopher
+#    - name: Daniel Whiteson
+#      profile: https://sites.uci.edu/daniel/
+#      title: Particle Physicist
+#    - name: Ieronim Constantinescu
+#      title: Physicist, Software engineer
+#      profile: https://www.linkedin.com/in/andrei-ieronim-constantinescu-9ab22623a/
+#    - name: S.W.C.
+#      title: Physicist
+#      quote: |-
+#        The physics paradigm is constantly evolving.
+#        For example, the speed of light was first conceived as infinite,
+#        then it was measured to be finite; it was considered frame dependent in the
+#        Newtonian classical mechanics, then it was found to be frame independent;
+#        it is defined as a fundamental constant, while a lot of theories predict its variation.
+#        The same story applies to energy, where we are in the era of energy-momentum conservation.
+#        Infinite usable energy has been of great interest, for practical reasons obviously, as
+#        evidenced by many hoax theories and bogus devices. It is invaluable to have an open-minded
+#        project, like this one led by Vlad, that seeks the feasibility of such energy
+#        sources within or beyond the current physics framework.
+#- tier_name: Enthusiasts
+#  size: small
+#  description: |-
+#    People who wish us good luck, and help us in other ways
+#  sponsors:
+#    - name: George Dragan
+#      title: Software engineer
+#      profile: https://www.linkedin.com/in/george-dragan/
