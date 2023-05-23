@@ -27,6 +27,9 @@
     - name: Daniel Whiteson
       profile: https://sites.uci.edu/daniel/
       title: Particle Physicist
+    - name: Jaydip Singh
+      title: Nuclear physicist
+      profile: https://www.linkedin.com/in/jaydip-singh-15714546/
     - name: Ieronim Constantinescu
       title: Physicist, Software engineer
       profile: https://www.linkedin.com/in/andrei-ieronim-constantinescu-9ab22623a/
@@ -51,3 +54,11 @@
     - name: George Dragan
       title: Software engineer
       profile: https://www.linkedin.com/in/george-dragan/
+      quote: |-
+        Backing this quest for infinite energy is an honor. My friend and mentor, 
+        the driving force behind this initiative, inspires us all to reimagine our energy future. 
+        This project is about more than energy - it's about transforming possibilities. 
+        I believe in this team and their audacious vision. Here's to a future powered infinitely!
+    - name: Astha Jain
+      title: Physicist
+      profile: https://www.linkedin.com/in/astha-jain-02ab9622b/
