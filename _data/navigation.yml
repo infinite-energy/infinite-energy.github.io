@@ -15,9 +15,18 @@
 #      link: /example-recipe/
 #    - name: Showcase
 #      link: /showcase/
+- name: Find out more
+  link: /#
+  dropdown:
+    - name: Fundamental research (Physics)
+      link: /physics-research/
+    - name: Funding models
+      link: /funding-models
+    - name: Our team
+      link: /our-team/
 - name: Blog
   link: /blog/
 - name: Supporters
   link: /supporters/
-- name: About
-  link: /about-us/
+- name: Contact us
+  link: /contact

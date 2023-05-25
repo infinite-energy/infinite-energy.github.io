@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About us
+title: Our team
 
-sponsors: about_us
+sponsors: our_team
 show_sidebar: false
 ---
 
