@@ -16,6 +16,8 @@ existed, what constraints would that impose on known &
 unknown physics, and how could we test these 
 constraints?"</b>. 
 3. Direction 3: <b>Research directly related to finding infinite energy.</b>
+4. Direction 4: <b>Research related to sources of energy we could use for 
+finite amount of time (while we search for a infinite source of energy)</b>
 
 ## Examples
 1. For direction #1, examples of 
@@ -31,3 +33,9 @@ purpose of finding infinite energy could also be an example.
 could be a good research topic. Also, research on whether 
 the universe is infinite, or on parallel universes can 
 be considered.
+4. Direction #4 is a support plan for the other directions.
+It is conceivable that we find that all our energy sources
+will run out before we find an intinite one. If this is the
+case, it makes sense to find another source of finite energy
+that will support our society, while we continue to try 
+searching for an infinite source.
