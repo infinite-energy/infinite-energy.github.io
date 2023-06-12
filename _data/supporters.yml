@@ -10,12 +10,6 @@
 #    - name: Sarah Lee-Cheesecake
 #      profile: https://github.com/
 
-- tier_name: Funding providers
-  size: large
-  description: |-
-    These people and institutions support us financially
-  sponsors:
-    - name: Nobody here yet, be the first one!
 - tier_name: Other thinkers
   icon_class: fa-graduation-cap
   icon_color: sponsor-researcher
@@ -76,3 +70,10 @@
     - name: Astha Jain
       title: Physicist
       profile: https://www.linkedin.com/in/astha-jain-02ab9622b/
+
+- tier_name: Funding providers
+  size: large
+  description: |-
+    These people and institutions support us financially
+  sponsors:
+    - name: Nobody here yet, be the first one!
