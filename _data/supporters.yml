@@ -16,6 +16,14 @@
     These people and institutions support us financially
   sponsors:
     - name: Nobody here yet, be the first one!
+- tier_name: Other thinkers
+  icon_class: fa-graduation-cap
+  icon_color: sponsor-researcher
+  size: large
+  description: |-
+    Thinkers with something to say about us
+  sponsors:
+    - name: Nobody here yet, be the first one!
 - tier_name: Researchers
   description: |-
     These are researchers who want to work with us
